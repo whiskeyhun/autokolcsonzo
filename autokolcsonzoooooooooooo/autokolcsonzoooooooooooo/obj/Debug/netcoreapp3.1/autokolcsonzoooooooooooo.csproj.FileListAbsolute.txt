@@ -1,0 +1,14 @@
+C:\Users\Tanulo\source\repos\autokolcsonzojo\autokolcsonzoooooooooooo\autokolcsonzoooooooooooo\bin\Debug\netcoreapp3.1\autokolcsonzoooooooooooo.exe
+C:\Users\Tanulo\source\repos\autokolcsonzojo\autokolcsonzoooooooooooo\autokolcsonzoooooooooooo\bin\Debug\netcoreapp3.1\autokolcsonzoooooooooooo.deps.json
+C:\Users\Tanulo\source\repos\autokolcsonzojo\autokolcsonzoooooooooooo\autokolcsonzoooooooooooo\bin\Debug\netcoreapp3.1\autokolcsonzoooooooooooo.runtimeconfig.json
+C:\Users\Tanulo\source\repos\autokolcsonzojo\autokolcsonzoooooooooooo\autokolcsonzoooooooooooo\bin\Debug\netcoreapp3.1\autokolcsonzoooooooooooo.runtimeconfig.dev.json
+C:\Users\Tanulo\source\repos\autokolcsonzojo\autokolcsonzoooooooooooo\autokolcsonzoooooooooooo\bin\Debug\netcoreapp3.1\autokolcsonzoooooooooooo.dll
+C:\Users\Tanulo\source\repos\autokolcsonzojo\autokolcsonzoooooooooooo\autokolcsonzoooooooooooo\bin\Debug\netcoreapp3.1\autokolcsonzoooooooooooo.pdb
+C:\Users\Tanulo\source\repos\autokolcsonzojo\autokolcsonzoooooooooooo\autokolcsonzoooooooooooo\obj\Debug\netcoreapp3.1\autokolcsonzoooooooooooo.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\autokolcsonzojo\autokolcsonzoooooooooooo\autokolcsonzoooooooooooo\obj\Debug\netcoreapp3.1\autokolcsonzoooooooooooo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\source\repos\autokolcsonzojo\autokolcsonzoooooooooooo\autokolcsonzoooooooooooo\obj\Debug\netcoreapp3.1\autokolcsonzoooooooooooo.AssemblyInfoInputs.cache
+C:\Users\Tanulo\source\repos\autokolcsonzojo\autokolcsonzoooooooooooo\autokolcsonzoooooooooooo\obj\Debug\netcoreapp3.1\autokolcsonzoooooooooooo.AssemblyInfo.cs
+C:\Users\Tanulo\source\repos\autokolcsonzojo\autokolcsonzoooooooooooo\autokolcsonzoooooooooooo\obj\Debug\netcoreapp3.1\autokolcsonzoooooooooooo.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\autokolcsonzojo\autokolcsonzoooooooooooo\autokolcsonzoooooooooooo\obj\Debug\netcoreapp3.1\autokolcsonzoooooooooooo.dll
+C:\Users\Tanulo\source\repos\autokolcsonzojo\autokolcsonzoooooooooooo\autokolcsonzoooooooooooo\obj\Debug\netcoreapp3.1\autokolcsonzoooooooooooo.pdb
+C:\Users\Tanulo\source\repos\autokolcsonzojo\autokolcsonzoooooooooooo\autokolcsonzoooooooooooo\obj\Debug\netcoreapp3.1\autokolcsonzoooooooooooo.genruntimeconfig.cache
