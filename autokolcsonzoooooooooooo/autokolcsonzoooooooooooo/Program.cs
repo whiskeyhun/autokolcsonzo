@@ -31,8 +31,10 @@ namespace Kolcsonzo
 			flotta[3] = randomUjAuto(3);
 			flotta[4] = randomUjAuto(4);
 
+			flotta[5] = RandomhasznaltAuto();
+			flotta[6] = RandomhasznaltAuto();
 
-			for (int i = 0; i <= 4; i++)
+			for (int i = 0; i <= 6; i++)
 			{
 
 				Console.Write(flotta[i].getRendszam() + " ; ");
@@ -118,7 +120,7 @@ namespace Kolcsonzo
 
 			return auto;
 		}
-		public KolcsonozhetoAuto randomhasznaltAuto() 
+		public static KolcsonozhetoAuto RandomhasznaltAuto() 
 		{
 			KolcsonozhetoAuto auto= randomUjAuto(1);
             if (auto.getGyartasEve()==2021)
