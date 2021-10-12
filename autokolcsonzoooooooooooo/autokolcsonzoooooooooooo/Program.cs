@@ -132,7 +132,20 @@ namespace Kolcsonzo
 			return auto;
 		}
 
+		public static AdatBekeres()
+		{ 
+			
 
+
+
+
+
+
+
+
+
+
+		}
 
 	}
 }
