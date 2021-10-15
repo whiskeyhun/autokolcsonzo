@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 
 namespace Kolcsonzo
@@ -78,7 +77,11 @@ namespace Kolcsonzo
 
         public void setBerelheto(bool szabad) { berelheto = szabad; }
 
-        public void setGyartasiIdo(int evszam) { gyartasEve = evszam; }
+
+
+        //uj!!!
+        public void setGyartasiIdo(int ev) { gyartasEve = ev; }
+
 
         /*
          * tagfüggvények
@@ -89,10 +92,5 @@ namespace Kolcsonzo
 
 
         //public teleTankolas() {}
-
-
-
-
     }
 }
-
